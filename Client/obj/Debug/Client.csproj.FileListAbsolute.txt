@@ -1,0 +1,16 @@
+C:\Projects\ImportClientPrototype\Client\bin\Debug\Client.exe.config
+C:\Projects\ImportClientPrototype\Client\bin\Debug\Client.exe
+C:\Projects\ImportClientPrototype\Client\bin\Debug\Client.pdb
+C:\Projects\ImportClientPrototype\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\ImportClientPrototype\Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\ImportClientPrototype\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\ImportClientPrototype\Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\ImportClientPrototype\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Projects\ImportClientPrototype\Client\obj\Debug\Client.exe
+C:\Projects\ImportClientPrototype\Client\obj\Debug\Client.pdb
+C:\Projects\ImportClientPrototype\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Projects\ImportClientPrototype\Client\obj\Debug\Client.csproj.App.config
+C:\Projects\ImportClientPrototype\Client\bin\Debug\System.Net.Http.Extensions.dll
+C:\Projects\ImportClientPrototype\Client\bin\Debug\System.Net.Http.Primitives.dll
+C:\Projects\ImportClientPrototype\Client\bin\Debug\System.Net.Http.Extensions.xml
+C:\Projects\ImportClientPrototype\Client\bin\Debug\System.Net.Http.Primitives.xml
